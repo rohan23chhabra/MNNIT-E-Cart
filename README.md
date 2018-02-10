@@ -1,6 +1,14 @@
 #   MNNIT-E-Cart
 This project is an e-commerce app developed for our college MNNIT.In this app users can upload the items they want to sell and other users can buy them.This app also requires a server which will store the user data, product data and other things.This is done with the help of FIREBASE.
 
+# Team Members
+
+* [Abhinav Dixit](https://github.com/abhinav23dixit)
+
+* [Sushant Oberoi](https://github.com/soc3)
+
+* [Rohan Chhabra](https://github.com/rohan23chhabra)
+
 
 
 # Screenshots
